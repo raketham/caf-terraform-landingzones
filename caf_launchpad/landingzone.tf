@@ -1,5 +1,5 @@
 module "launchpad" {
-  source = "git::https://github.com/aztfmod/terraform-azurerm-caf.git?ref=int-5.7.0"
+  source = "git::https://github.com/raketham/terraform-azurerm-caf.git?ref=feature/private-dns-resolver"
   # source  = "aztfmod/caf/azurerm"
   # version = "5.6.6"
 
