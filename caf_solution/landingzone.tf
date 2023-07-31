@@ -1,5 +1,5 @@
 module "solution" {
-  source  = "../terraform-azurerm-caf/"
+  source  = "/tf/caf/terraform-azurerm-caf/"
 
   providers = {
     azurerm.vhub = azurerm.vhub
